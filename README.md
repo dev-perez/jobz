@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o projeto
 💼 JOBZ - É o canal que conecta empresas e consultorias de RH a candidatos que buscam novas oportunidades.
-Simulamos um sistema de criação de vagas por empresas.Também será possível a leitura,  a edição e a exclusão das vagas criadas.
+Simulamos um sistema de criação de vagas por empresas.Também será possível a leitura e a edição das vagas criadas.
 
 Tabela de conteúdo
 =================
